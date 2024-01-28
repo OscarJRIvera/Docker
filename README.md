@@ -8,3 +8,5 @@ CRUD.PY es el archivo de python donde estan las rutas y metodos get/post/put/del
 El .json es el archivo para realizar las mismas pruebas en el postman.
 
 Imagenes es un folder que contiene caputras de funcionamiento de varios de los pasos.
+
+Los contenedores pesaban mucho(github solo accepta 25mb), por lo cual se subio a drive: https://drive.google.com/file/d/1WpRkN37pAsPHtf9KD0vVXOp9gkEzvo6C/view?usp=sharing
