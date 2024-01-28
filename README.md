@@ -3,7 +3,7 @@ OSCAR JOSUE RIVERA MENENDEZ 1203819
 DIANA ALEJANDRA ARAGON LOPEZ 2530019
 
 
-CRUD.PY es el archivo de python donde estan las rutas y metodos get/post/put/delete .
+CRUD.PY es el archivo de python donde estan las rutas y metodos get/post/put/delete. Es necesario tener el paquete FLask instalado para lograr correr el codigo para que funcione bien el api
 
 El .json es el archivo para realizar las mismas pruebas en el postman.
 
